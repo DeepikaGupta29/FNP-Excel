@@ -1,1 +1,1 @@
-# FNP-Excel
+The FNP Sales Dashboard offers key insights into revenue trends, top-performing products like Colors and Soft Toys, and peak sales during festivals like Raksha Bandhan. It highlights order volumes, regional performance, and delivery efficiency, enabling data-driven decisions for better marketing and logistics.
