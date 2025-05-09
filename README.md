@@ -1,6 +1,7 @@
 # 📊 FNP Excel Sales Dashboard
 
 An Excel-based dashboard project for analyzing FNP (Fern N Petals) sales data. It highlights key metrics like revenue, order volume, and top-performing categories using interactive charts.
+https://github.com/DeepikaGupta29/FNP-Excel/blob/main/FNP%20Sales%20Analysis%20Dashboard.png
 
 ## 🔹 Features
 
@@ -11,7 +12,7 @@ An Excel-based dashboard project for analyzing FNP (Fern N Petals) sales data. I
 
 ## 📁 Files
 
-- `FNP Raw Data.xlsx` – Original sales data  
+- `fnp-dataset` – Original sales data  
 - `FNP Dashboard.xlsx` – Final interactive dashboard  
 
 ## 🛠 Tools Used
