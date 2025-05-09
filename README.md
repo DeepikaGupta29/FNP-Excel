@@ -2,7 +2,7 @@
 
 An Excel-based dashboard project for analyzing FNP (Fern N Petals) sales data. It highlights key metrics like revenue, order volume, and top-performing categories using interactive charts.
 
-[![Dashboard Screenshot](https://github.com/DeepikaGupta29/Amazon-Sales-Dashboard--Power-BI/blob/main/Amazon%20Dashboard.png)]
+[![Dashboard Screenshot](https://github.com/DeepikaGupta29/FNP-Excel/blob/main/FNP%20Sales%20Analysis%20Dashboard.png)]
 
 ## 🔹 Features
 
